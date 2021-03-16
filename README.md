@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Osman-Rafi
 - 👀 I’m interested in Web Application Development
-- 🌱 I’m currently learning Vuejs,Laravel,Reactjs
+- 🌱 I’m currently working on Vuejs,Laravel,Reactjs
 - 💞️ I’m looking to collaborate on SPA Application
 - 📫 Reach me through rafi.ogchy@gmail.com
 
